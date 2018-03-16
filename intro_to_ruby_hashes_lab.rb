@@ -1,5 +1,5 @@
 def new_hash
-
+  a_wild_hash_appears = Hash.new
 end
 
 def actor
